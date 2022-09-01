@@ -1,0 +1,71 @@
+[2022-08-02 12:00:40.175] [remoteagent] [info] Extension host agent started.
+[2022-08-02 12:00:44.753] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 12:00:44.773] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2022-08-02 12:00:45.020] [remoteagent] [info] [127.0.0.1][1ecf9ae3][ManagementConnection] New connection established.
+[2022-08-02 12:00:45.148] [remoteagent] [info] [127.0.0.1][870904dc][ExtensionHostConnection] New connection established.
+[2022-08-02 12:00:45.171] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-08-02 12:00:46.879] [remoteagent] [info] [127.0.0.1][870904dc][ExtensionHostConnection] <1243> Launched Extension Host Process.
+[2022-08-02 12:00:47.081] [remoteagent] [error] RequestService#request (node) resolving shell environment failed {}
+[2022-08-02 12:43:31.313] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 12:43:58.555] [remoteagent] [info] [127.0.0.1][870904dc][ExtensionHostConnection] The client has reconnected.
+[2022-08-02 12:43:58.583] [remoteagent] [info] [127.0.0.1][1ecf9ae3][ManagementConnection] The client has reconnected.
+[2022-08-02 13:21:59.457] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 13:22:13.615] [remoteagent] [info] [127.0.0.1][1ecf9ae3][ManagementConnection] The client has reconnected.
+[2022-08-02 13:22:13.659] [remoteagent] [info] [127.0.0.1][870904dc][ExtensionHostConnection] The client has reconnected.
+[2022-08-02 14:10:37.501] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-08-02 14:10:49.317] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:11:02.987] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:11:11.266] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:11:18.516] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:11:25.604] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:11:33.906] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:11:46.252] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:11:53.673] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:12:01.459] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:12:14.383] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:12:22.334] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:12:30.198] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:12:38.440] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:12:46.029] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:12:54.041] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:13:01.869] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:13:09.364] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:13:16.868] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:13:24.229] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:13:31.527] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:13:38.996] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:13:46.295] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:13:53.623] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:14:08.305] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:14:18.907] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:14:33.505] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:14:40.573] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:14:45.645] [remoteagent] [error] No ptyHost heartbeat after 12 seconds
+[2022-08-02 14:14:53.439] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:15:00.909] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:15:09.054] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:15:29.159] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:15:36.382] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:16:46.423] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:16:53.535] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:17:00.883] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:17:09.102] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:17:16.660] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:17:23.919] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:18:32.449] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:18:38.765] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:19:02.420] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:21:31.008] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:21:37.794] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:21:44.193] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:21:51.333] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:21:57.694] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:22:04.701] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:22:11.702] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:22:18.443] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:22:45.484] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:22:51.872] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:22:59.322] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:23:06.180] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 14:29:22.052] [remoteagent] [info] [127.0.0.1][1ecf9ae3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-02 14:29:22.436] [remoteagent] [info] [127.0.0.1][870904dc][ExtensionHostConnection] <1243> Extension Host Process exited with code: 0, signal: null.

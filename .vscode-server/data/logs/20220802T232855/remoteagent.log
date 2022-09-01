@@ -1,0 +1,39 @@
+[2022-08-02 23:29:00.962] [remoteagent] [info] Extension host agent started.
+[2022-08-02 23:29:04.674] [remoteagent] [info] [127.0.0.1][58dd9bc7][ManagementConnection] New connection established.
+[2022-08-02 23:29:04.732] [remoteagent] [info] [127.0.0.1][7a60a002][ExtensionHostConnection] New connection established.
+[2022-08-02 23:29:05.122] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:29:05.436] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2022-08-02 23:29:05.437] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-08-02 23:29:05.440] [remoteagent] [error] RequestService#request (node) resolving shell environment failed {}
+[2022-08-02 23:29:05.565] [remoteagent] [info] [127.0.0.1][7a60a002][ExtensionHostConnection] <1336> Launched Extension Host Process.
+[2022-08-02 23:29:17.186] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-08-02 23:29:28.608] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-08-02 23:29:41.667] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:29:53.878] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:30:01.363] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:31:18.497] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:31:36.273] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:31:43.517] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:31:53.335] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:32:02.611] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:32:11.518] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:32:18.921] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:33:02.921] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:33:10.415] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:33:18.212] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:33:27.717] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:33:35.124] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:33:47.749] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:34:06.742] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:34:13.078] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:34:20.519] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:34:27.441] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:34:36.172] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:34:43.184] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:34:51.659] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:34:58.697] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:35:57.502] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:36:10.481] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:36:16.846] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 23:39:40.706] [remoteagent] [info] [127.0.0.1][58dd9bc7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-02 23:39:41.152] [remoteagent] [info] [127.0.0.1][7a60a002][ExtensionHostConnection] <1336> Extension Host Process exited with code: 0, signal: null.
